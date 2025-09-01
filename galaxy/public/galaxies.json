@@ -1,0 +1,103 @@
+{
+  "galaxies": [
+    {
+      "id": 1,
+      "name": "Via Láctea",
+      "stars": 400000000000,
+      "type": "Espiral",
+      "distance": "0 anos-luz",
+      "description": "Nossa galáxia natal, Galáxia espiral barrada onde está o nosso Sistema Solar, com braços espirais e um núcleo denso.",
+      "image": "https://images.ctfassets.net/cnu0m8re1exe/76iARqWFwf5VQeHcy7FsYB/75246efbd9ac79410b75b5c0211723ba/shutterstock_738535111.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
+    },
+    {
+      "id": 2,
+      "name": "Andrômeda",
+      "stars": 1000000000000,
+      "type": "Espiral",
+      "distance": "2.537.000 anos-luz",
+      "description": "A galáxia espiral mais próxima da Via Láctea e a maior galáxia do Grupo Local. Está se aproximando da nossa galáxia e colidirá com ela em aproximadamente 4,5 bilhões de anos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg"
+    },
+    {
+      "id": 3,
+      "name": "M33 (Triângulo)",
+      "stars": 40000000000,
+      "type": "Espiral",
+      "distance": "3.000.000 anos-luz",
+      "description": "Galáxia espiral menor, satélite de Andrômeda, rica em regiões de formação estelar.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/M33HunterWilson09.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Centaurus A (NGC 5128)",
+      "stars": 100000000000,
+      "type": "Lenticular",
+      "distance": "10.000.000 anos-luz",
+      "description": "Galáxia lenticular com núcleo ativo e jatos de rádio, resultado de fusão galáctica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Centaurus_A.jpg/500px-Centaurus_A.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sombrero (M104)",
+      "stars": 100000000000,
+      "type": "Espiral",
+      "distance": "28.000.000 anos-luz",
+      "description": "Famosa por sua aparência que lembra um sombrero mexicano, vista de perfil. Possui um bulbo central proeminente e um disco fino com faixa de poeira escura.",
+      "image": "https://cdn.eso.org/images/wallpaper4/sombrero.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Whirlpool (M51)",
+      "stars": 160000000000,
+      "type": "Espiral",
+      "distance": "31.000.000 anos-luz",
+      "description": "Também conhecida como M51, famosa por sua estrutura espiral bem definida e interação com uma galáxia companheira menor. Exemplo clássico de galáxia espiral de design.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Messier51.jpg/1200px-Messier51.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Magalhães Grande",
+      "stars": 20000000000,
+      "type": "Espiral",
+      "distance": "160.000 anos-luz",
+      "description": "Galáxia anã irregular, satélite da Via Láctea, visível do hemisfério sul. Rica em formação estelar e contém a famosa Nebulosa da Tarântula.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grande_Nuvem_de_Magalh%C3%A3es.jpg/330px-Grande_Nuvem_de_Magalh%C3%A3es.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Magalhães Pequena",
+      "stars": 3000000000,
+      "type": "Irregular",
+      "distance": "200.000 anos-luz",
+      "description": "Galáxia anã irregular. A menor das Nuvens de Magalhães, também satélite da Via Láctea. Possui forma irregular e está gravitacionalmente ligada à Grande Nuvem de Magalhães.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg/960px-Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg"
+    },
+    {
+      "id": 9,
+      "name": "NGC 1300",
+      "stars": 100000000000,
+      "type": "Espiral",
+      "distance": "61.000.000 anos-luz",
+      "description": "Exemplo clássico de galáxia espiral barrada, com uma barra central proeminente e braços espirais bem definidos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg/1200px-Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Messier 82 (A Galáxia do Charuto)",
+      "stars": 30000000000,
+      "type": "Espiral",
+      "distance": "12.000.000 anos-luz",
+      "description": "Galáxia irregular com alta taxa de formação estelar, causada pela interação gravitacional com M81. Conhecida como galáxia starburst.",
+      "image": "https://science.nasa.gov/wp-content/uploads/2023/04/m82-jpg.webp?resize=1536,1198"
+    },
+    {
+      "id": 11,
+      "name": "NGC 4993",
+      "stars": 10000000000,
+      "type": "Elíptica",
+      "distance": "130.000.000 anos-luz",
+      "description": "Galáxia elíptica que foi o local do primeiro evento de fusão de estrelas de nêutrons detectado em ondas gravitacionais, conhecida como quilonova (GW170817).",
+      "image": "https://cdn.eso.org/images/wallpaper3/eso1733b.jpg"
+    }
+  ]
+}
